@@ -1,0 +1,24 @@
+# Ignorar carpetas y archivos ajenos a las prácticas solicitadas
+AVANCE/
+lab01-linux/
+labo 5/
+para estudio/
+pdf redes/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# LaTeX temporales
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
